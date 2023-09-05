@@ -129,8 +129,8 @@ var commands = {
 
   download_cv: function () {
     downloadURI(
-      "assets/downloads/Birendra Dhami CV.pdf",
-      "Birendra Dhami CV.pdf"
+      "assets/downloads/BirendraCV.pdf",
+      "BirendraCV.pdf"
     );
   },
 
